@@ -51,3 +51,12 @@ Create a virtual environment using Python 3.10.11:
 
 ```bash
 py -3.10 -m venv venv
+
+### 4️⃣ Upgrade pip
+
+Upgrade `pip` to the latest version inside the virtual environment:
+
+```bash
+python -m pip install --upgrade pip
+
+
