@@ -36,3 +36,18 @@ This project performs real-time emotion detection using a webcam by leveraging t
 
 Download and install **Python 3.10.11 (64-bit)** from the official website:
 
+
+---
+
+### 2️⃣ Clone the Repository
+
+https://github.com/darshan-s-taskar/Emotion-Detection-using-DeepFace.git
+
+---
+
+### 3️⃣ Create and Activate Virtual Environment
+
+Create a virtual environment using Python 3.10.11:
+
+```bash
+py -3.10 -m venv venv
